@@ -1,6 +1,6 @@
 # **Digital-IC-Design-Using-Verilog-HDL-Vivado-FPGA-Flow Program**
 
-****Topics Covered****
+## ****Topics Covered****
 
 -Classical Digital Design flow – Truth tables/K-maps/Boolean Algebra/ Logic Equivalence.
 
@@ -39,4 +39,4 @@
 -Tcl commands to automate Vivado design flow
 
 -FPGA-based Prototyping & Partitioning Challenges
-**Course Project** **(DSP48A1 for Spartan 6 FPGA) & (SPI Slave With A Single Port RAM)**
+_**Course Project** **(DSP48A1 for Spartan 6 FPGA) & (SPI Slave With A Single Port RAM)**_

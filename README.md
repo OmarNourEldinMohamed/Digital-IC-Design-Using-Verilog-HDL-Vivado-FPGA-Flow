@@ -2,17 +2,17 @@
 
 ****Topics Covered****
 
-Classical Digital Design flow – Truth tables/K-maps/Boolean Algebra/ Logic Equivalence.
+-Classical Digital Design flow – Truth tables/K-maps/Boolean Algebra/ Logic Equivalence.
 
-History of HDLs & Intro to Verilog/Verilog Constructs [Modern Digital Design flow]
+-History of HDLs & Intro to Verilog/Verilog Constructs [Modern Digital Design flow]
 
-Combinational Logic basics & Verilog Essentials to model Combinational Logic circuits
+-Combinational Logic basics & Verilog Essentials to model Combinational Logic circuits
 
-Most Important Combinational Logic circuits & how to design them in Verilog
+-Most Important Combinational Logic circuits & how to design them in Verilog
 
-Verification using Verilog & testbench generation
+-Verification using Verilog & testbench generation
 
-Sequential circuits basics & Verilog essentials to model sequential circuits
+-Sequential circuits basics & Verilog essentials to model sequential circuits
 
 Most important sequential circuits & how to design them in Verilog
 

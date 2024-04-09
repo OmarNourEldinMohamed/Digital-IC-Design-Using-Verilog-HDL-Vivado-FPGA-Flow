@@ -39,4 +39,7 @@
 -Tcl commands to automate Vivado design flow
 
 -FPGA-based Prototyping & Partitioning Challenges
-_**Course Project** **(DSP48A1 for Spartan 6 FPGA) & (SPI Slave With A Single Port RAM)**_
+
+**Course Projects** 
+
+**(DSP48A1 for Spartan 6 FPGA) & (SPI Slave With A Single Port RAM)**_

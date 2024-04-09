@@ -1,5 +1,5 @@
-# **Digital-IC-Design-Using-Verilog-HDL-Vivado-FPGA-Flow Program **
-Topics Covered
+#Digital-IC-Design-Using-Verilog-HDL-Vivado-FPGA-Flow Program
+**Topics Covered**
 
 Classical Digital Design flow – Truth tables/K-maps/Boolean Algebra/ Logic Equivalence.
 

@@ -1,4 +1,4 @@
-# **Digital-IC-Design-Using-Verilog-HDL-Vivado-FPGA-Flow Program**
+# **Digital Design Diploma Program**
 
 ## ****Topics Covered****
 

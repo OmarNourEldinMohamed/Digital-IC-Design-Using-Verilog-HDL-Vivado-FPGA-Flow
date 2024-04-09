@@ -1,4 +1,4 @@
-**Digital-IC-Design-Using-Verilog-HDL-Vivado-FPGA-Flow Program**
+# **Digital-IC-Design-Using-Verilog-HDL-Vivado-FPGA-Flow Program**
 
 ****Topics Covered****
 
@@ -14,30 +14,29 @@
 
 -Sequential circuits basics & Verilog essentials to model sequential circuits
 
-Most important sequential circuits & how to design them in Verilog
+-Most important sequential circuits & how to design them in Verilog
 
-Finite State Machine (FSM) basics/types & how to design them in Verilog
+-Finite State Machine (FSM) basics/types & how to design them in Verilog
 
-Memories basics/types & Verilog essentials to model memories
+-Memories basics/types & Verilog essentials to model memories
 
-Most Important memory types & how to design them in Verilog
+-Most Important memory types & how to design them in Verilog
 
-Verilog synthesis constructs
+-Verilog synthesis constructs
 
-Tcl commands to automate QuestaSim simulation flow
+-Tcl commands to automate QuestaSim simulation flow
 
-Static Linting Checks & Clock Domain Crossing (CDC) techniques
+-Static Linting Checks & Clock Domain Crossing (CDC) techniques
 
-FPGA design flow & architecture basics
+-FPGA design flow & architecture basics
 
-Vivado design flow using Basys 3 FPGA Board
+-Vivado design flow using Basys 3 FPGA Board
 
-Timing and physical design constraints
+-Timing and physical design constraints
 
-Integrate IP cores into design flow using IP Catalog
+-Integrate IP cores into design flow using IP Catalog
 
-Tcl commands to automate Vivado design flow
+-Tcl commands to automate Vivado design flow
 
-FPGA-based Prototyping & Partitioning Challenges
-
-Course Project (DSP48A1 for Spartan 6 FPGA) & (SPI Slave With A Single Port RAM)
+-FPGA-based Prototyping & Partitioning Challenges
+**Course Project** **(DSP48A1 for Spartan 6 FPGA) & (SPI Slave With A Single Port RAM)**
